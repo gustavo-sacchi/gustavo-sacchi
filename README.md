@@ -4,7 +4,7 @@
 - 🌱 Sigo estudando programação focada na linguagem Python. 
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/gustavo-sacchi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-sacchi&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-sacchi&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
