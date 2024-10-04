@@ -1,7 +1,9 @@
 Olá! Me chamo Gustavo! Seja Bem vindo(a) 👋
 
 - 🔭 Hoje eu trabalho com Engenharia Elétrica.
-- 🌱 Sigo estudando programação focada na linguagem Python. 
+- 🌱 Sigo estudando programação focada na linguagem Python
+- 🤖 Criando e Desenvolvendo soluções de inteligencia artificial e data science.
+
 
   
   ##
